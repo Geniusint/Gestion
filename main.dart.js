@@ -13765,7 +13765,7 @@ s=2
 return P.ae(K.Tr(),$async$adf)
 case 2:q=P.asV()
 q=q.gtq(q)
-p=P.e9(".localhost",!0)
+p=P.e9(".romain-vericel.fr",!0)
 o=H.agm(q,p,"")
 o=o!==""?o:"phone"
 P.dl(o)
@@ -61359,7 +61359,7 @@ q=H.c([m,s,r,Q.a2v(new Z.o8(O.dC(K.cq(o)),q).ga0N(),t.O0)],t.JD)
 r=P.af(["/Accueil",new F.X5(),"/Administration",new F.X6()],t.X,t.FD)
 s=this.c
 if(s==="phone")p=R.a_d(s)
-else p=s==="localhost"?R.a_d(s):R.a_d(s)
+else p=s==="romain-vericel.fr"?R.a_d(s):R.a_d(s)
 return Y.aiA(new S.uX(p,r,"/",!1,null),q)}}
 F.X5.prototype={
 $1:function(a){return R.a_d(null)},
