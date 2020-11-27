@@ -23325,7 +23325,7 @@ nY:function(a,b){C.c2.j_(window,"popstate",b)
 return new H.Va(this,b)},
 pq:function(a){var s=window.location.hash
 if(s==null)s=""
-if(s.length===0||s==="#")return"/"
+if(s.length===0||s==="")return"/"
 return C.c.cR(s,1)},
 pt:function(a){return new P.ir([],[]).jb(window.history.state,!0)},
 Kk:function(a,b){var s,r
