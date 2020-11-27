@@ -23334,7 +23334,7 @@ s.toString
 r=window.location.search
 r.toString
 r=s+r
-s=r}else s="#"+b
+s=r}else s=""+b
 return s},
 p3:function(a,b,c,d){var s=this.Kk(0,d),r=window.history
 r.toString
